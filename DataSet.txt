@@ -1,0 +1,4 @@
+number of processes: 3
+process: A, start: 0, take: 5, I/O burst: 2, I/O duration: 2, Priority: 2
+process: B, start: 0, take: 10, I/O burst: 0, I/O duration: 0, Priority: 1
+process: C, start: 0, take: 7, I/O burst: 1, I/O duration: 1, Priority: 1
